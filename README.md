@@ -12,3 +12,4 @@ Sequelize
 node server.js
 
 # Website
+https://lhaurod.github.io/E-commerce/
